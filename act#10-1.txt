@@ -1,0 +1,9 @@
+// Program to print your name
+// Programmer: Neelesh Maharjan
+// Version: v1
+// Date: 2022/07/20
+// Description: This program prints my name
+
+Declare MyName as String
+Set MyName = "Neelesh Maharjan"
+Write "Your name is " + MyName
